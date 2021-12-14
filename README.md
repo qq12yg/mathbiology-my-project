@@ -14,4 +14,4 @@ untitled5.m is the simulation(replicate) for the fifth figure in the paper
 untitled7.m is the simulation(replicate) for the sixth figure in the paper
 
 All the code(programming) file you can dircetly run and get the corresponding figure.
-And the code for this paper is NOT publicly available, all programming work is my own. You check and compare the these figures with the figures in the paper, they are almost same, and they are the replication of all the figures in the paper. Of course, I will insert more figures of my analysis results in the following task.
+And the code for this paper is NOT publicly available, all programming work is my own. You check and compare the these figures with the figures in the paper, they are almost same, and they are the replication of all the figures in the paper.
